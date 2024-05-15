@@ -44,6 +44,6 @@ function pokemon_clicado(id){
 }
 
 
-console.log()
+
 
 
